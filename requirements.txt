@@ -1,1 +1,4 @@
-# Add the Python packages required to run the notebooks here.
+pandas
+scikit-learn
+jupyter
+ipykernel
