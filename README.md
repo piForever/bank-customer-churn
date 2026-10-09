@@ -30,15 +30,15 @@ bank-customer-churn/
 
 ## ES
 
-### Predicción de abandono de clientes bancarios
+# Predicción de abandono de clientes bancarios
 
 Proyecto de clasificación para predecir si un cliente *continuará* en el banco o se dará de *baja* durante los próximos meses. Los datos corresponden a clientes de un importante banco argentino; la información fue anonimizada, por lo que no contiene datos personales o sensibles.
 
-### Objetivo
+## Objetivo
 
 El objetivo es analizar la información de los clientes bancarios y desarrollar modelos que permitan identificar posibles casos de abandono.
 
-### Herramientas utilizadas
+## Herramientas utilizadas
 
 - Python
 - Pandas
@@ -47,4 +47,4 @@ El objetivo es analizar la información de los clientes bancarios y desarrollar 
 - Scikit-learn
 - Jupyter Notebook
 
-### Resultados
+## Resultados
